@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filodeca
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 👀 I’m a software developer.
+- 🌱 Code. Create. Innovate.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via email filopesdecarvalho@gmail.com
 - 😄 Pronouns: she/her
